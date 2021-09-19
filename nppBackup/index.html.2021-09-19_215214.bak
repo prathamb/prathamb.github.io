@@ -258,7 +258,7 @@
           </h2>
         </blockquote> -->        
         <p>
-          I am pre-final year Mechanical Engineering undergraduate student at Indian Institute of Technology Roorkee, India. I am intrested in Robotics , Additive Manufacturing Systeam & Mechanical Design which together can create a impace on future of Manufacturing. I have experience of using various software tools used by industy and researchers.   
+          I am an Mechanical Engineering undergraduate at Indian Institute of Technology Roorkee, India. 
         </p>
         <p>
           <ul>
@@ -530,7 +530,7 @@ such as login/sign up, view a product, add a product to cart, checkout the order
             </div>
           </div> -->
 
-          <!-- Crash -->
+          <!-- Flask Project -->
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
@@ -563,7 +563,7 @@ such as login/sign up, view a product, add a product to cart, checkout the order
             </div>
           </div>
 
-          <!-- TSA -->
+          <!-- VQA -->
           <div class="col s12 m6 l4">
             <div class="card medium">
               <div class="card-image waves-effect waves-block waves-light">
