@@ -106,7 +106,7 @@
   background: none;
   color: #fff;
   border: 2px solid #fff;
-  font-weight: 5000;
+  font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;

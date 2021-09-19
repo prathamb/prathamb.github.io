@@ -87,7 +87,7 @@
   background: #F0F0FF;
   color: #00000;
   border: 2px solid #fff;
-  font-weight: 600;
+  font-weight: 1500;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
@@ -106,7 +106,7 @@
   background: none;
   color: #fff;
   border: 2px solid #fff;
-  font-weight: 5000;
+  font-weight: 1500;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;

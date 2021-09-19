@@ -239,8 +239,8 @@
               </a> -->
             </div>
             <div class='buttons'>
-              <a href="#about" class="readme"><b>Read More</b></a>
-              <a href="#contact" class="contactme"><b>Contact Me</b></a>
+              <a href="#about" class="readme">Read More</a>
+              <a href="#contact" class="contactme">Contact Me</a>
             </div>
           </div>
         </div>

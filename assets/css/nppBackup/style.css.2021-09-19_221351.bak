@@ -84,7 +84,7 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #F0F0FF;
+  background: #D8D8D8;
   color: #00000;
   border: 2px solid #fff;
   font-weight: 600;
@@ -106,7 +106,7 @@
   background: none;
   color: #fff;
   border: 2px solid #fff;
-  font-weight: 5000;
+  font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
   display: inline-block;
